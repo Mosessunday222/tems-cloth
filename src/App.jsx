@@ -6,7 +6,7 @@ import ProductDetail from "./page/product/ProductDetail";
 import About from "./page/About/About";
 import Home from "./page/Home/Home";
 import PageNotFound from './page/PageNotFound'
-import Checkout from "./page/checkout/Checkout"; 
+import Checkout from "./page/Checkout/Checkout"; 
 import NavPage from "./ui/NavPage";
 import Footer from './ui/Footer'
 
